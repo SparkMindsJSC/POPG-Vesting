@@ -62,7 +62,7 @@ To deploy and interact with the `POPGToken` and `VestingWallet` contracts, ensur
 2. Install dependencies:
 
    ```bash
-   npm install
+   yarn install
    ```
 
 3. Compile the contracts:
@@ -74,7 +74,7 @@ To deploy and interact with the `POPGToken` and `VestingWallet` contracts, ensur
 4. Deploy the contracts:
 
    ```bash
-      npx hardhat ignition deploy ./ignition/modules/deployToken.ts --network <network>
+   npx hardhat ignition deploy ./ignition/modules/deployToken.ts --network <network>
    ```
 
 ## Usage

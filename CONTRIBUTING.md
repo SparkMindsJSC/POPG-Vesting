@@ -71,6 +71,6 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to thi
 
 ## Contact
 
-If you have any questions or need further assistance, please reach out to us via [Issues](https://github.com/your-repo/popg-vesting/issues) on GitHub or contact the project maintainers.
+If you have any questions or need further assistance, please reach out to us via [Issues](https://github.com/SparkMindsJSC/popg-vesting/issues) on GitHub or contact the project maintainers.
 
 Thank you for contributing!
